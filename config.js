@@ -27,7 +27,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "最宝贝的老婆": "l.jpeg",
+        "最宝贝的老婆": "5.jpeg",
         "在家乖乖听话": "1.jpg",
         "我爱你哦": "2.jpg",
         "To my 宝贝老婆": "3.jpg",
@@ -41,7 +41,7 @@ var config = {
         balloons_flying: "生日需要什么？",
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
-        wish_message: "生日快乐",
+        wish_message: "宝贝老婆生日快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
